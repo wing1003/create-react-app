@@ -36,5 +36,6 @@
     "@babel/runtime": "7.11.2",
     "babel-plugin-macros": "2.8.0",
     "babel-plugin-transform-react-remove-prop-types": "0.4.24"
-  }
+  },
+  "gitHead": "3887d4cca7a49ccf5c3dca4cff7d46ae34a1de4d"
 }
