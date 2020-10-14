@@ -258,7 +258,7 @@ function createApp(name, verbose, version, template, useNpm, usePnp) {
   }
   console.log();
 
-  console.log(`Creating a new React app in ${chalk.green(root)}.`);
+  console.log(`Creating a new Niimbot React app in ${chalk.green(root)}.`);
   console.log();
 
   const packageJson = {
